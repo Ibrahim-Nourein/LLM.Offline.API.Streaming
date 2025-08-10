@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLM.Offline.Streaming.Api", "LLM.Offline.Streaming.Api\LLM.Offline.Streaming.Api.csproj", "{53E5823E-4125-467C-A520-ECF2874B7512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLM.Offline.Streaming.Client", "LLM.Offline.Streaming.Client\LLM.Offline.Streaming.Client.csproj", "{8348DD83-BB32-4505-92AA-91705274A21F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E5823E-4125-467C-A520-ECF2874B7512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E5823E-4125-467C-A520-ECF2874B7512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E5823E-4125-467C-A520-ECF2874B7512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E5823E-4125-467C-A520-ECF2874B7512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8348DD83-BB32-4505-92AA-91705274A21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8348DD83-BB32-4505-92AA-91705274A21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8348DD83-BB32-4505-92AA-91705274A21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8348DD83-BB32-4505-92AA-91705274A21F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

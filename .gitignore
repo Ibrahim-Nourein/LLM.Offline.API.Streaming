@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/LLM.Offline.Streaming.Api/mistral-7b-instruct-v0.1.Q8_0.gguf
